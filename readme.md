@@ -9,13 +9,14 @@ My hobby
 + Anime
 + (and so on...)
 
-Here is a table about me and my friends
+Here is a table about me and my friends:
 
-| Who | major | gpa |
-| : --- : | : --- : | : --- :|
-| friend A | CS | 3.90 |
-| friend B | MIE | 3.88 |
-| Me | CS | a sad story |
+| Who       | major | gpa         |
+|:--------: | :----:| :----------:|
+| friend A  | CS    | 3.90        |
+| friend B  | MIE   | 3.88        |
+| Me        | CS    | a sad story |
+
 
 - [X] a beginner of cs
 - [ ] a full stack engineer
